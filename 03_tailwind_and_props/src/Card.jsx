@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Card({username}) {
+function Card({username = "username"}) {
     console.log(username)
   return (
     <div className="max-w-sm rounded-xl bg-white p-6 shadow-lg m-5">

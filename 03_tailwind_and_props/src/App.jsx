@@ -5,8 +5,6 @@ function App() {
   return (
    <>
    <Card username="anshul sharma" />
-   <Card username={"preeti negi"} />
-   <Card />
    <Card />
    </>
   )
